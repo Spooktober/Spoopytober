@@ -1,0 +1,46 @@
+body{
+	background-color: purple;
+	font-family: arial;
+	margin: 0 auto;
+}
+
+.rotate{
+	transform: rotate(180deg);
+}
+
+header{
+	background: violet;	
+}
+
+main{
+	background-color: black;
+}
+
+footer{
+	background-color: pink;
+	display: flex;
+}
+
+li{
+	color: white;
+	text-decoration: none;
+
+}
+
+ul{
+	color: white;
+	list-style-type: none;
+}
+
+h1{
+	font-family: Comic Sans MS;
+}
+
+h2{
+	color:brown;
+}
+
+.lol{
+	display: flex;
+}
+

@@ -16,6 +16,20 @@ main{
 	background-color: black;
 }
 
+main .things{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+main .things img{
+	width: auto;
+	height: 200px;
+	padding-left: 20px;
+}
+
 footer{
 	background-color: pink;
 	display: flex;
@@ -45,5 +59,6 @@ h2{
 }
 
 footer img{
-	
+	width: auto;
+	height:20px;
 }

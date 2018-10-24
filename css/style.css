@@ -58,6 +58,11 @@ h2{
 	display: flex;
 }
 
+.lol img{
+	width: auto;
+	height: 300px;
+}
+
 footer img{
 	width: auto;
 	height:20px;
